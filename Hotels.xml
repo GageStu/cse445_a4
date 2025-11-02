@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels>
+  <Hotel Rating="4.3">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E. 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.6">
+    <Name>Hyatt Regency Scottsdale</Name>
+    <Phone>480-444-1234</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>7500</Number>
+      <Street>E Doubletree Ranch Rd</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85258</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Hotel del Coronado</Name>
+    <Phone>619-435-6611</Phone>
+    <Address NearestAirport="San Diego Intl">
+      <Number>1500</Number>
+      <Street>Orange Ave</Street>
+      <City>Coronado</City>
+      <State>CA</State>
+      <Zip>92118</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.7">
+    <Name>Fairmont Grand Del Mar</Name>
+    <Phone>858-314-2000</Phone>
+    <Address NearestAirport="San Diego Intl">
+      <Number>5300</Number>
+      <Street>Grand Del Mar Ct</Street>
+      <City>San Diego</City>
+      <State>CA</State>
+      <Zip>92130</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Bellagio Las Vegas</Name>
+    <Phone>888-987-6667</Phone>
+    <Phone>702-693-7111</Phone>
+    <Address NearestAirport="Harry Reid Intl">
+      <Number>3600</Number>
+      <Street>S Las Vegas Blvd</Street>
+      <City>Las Vegas</City>
+      <State>NV</State>
+      <Zip>89109</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.5">
+    <Name>Aria Resort &amp; Casino</Name>
+    <Phone>866-359-7757</Phone>
+    <Address NearestAirport="Harry Reid Intl">
+      <Number>3730</Number>
+      <Street>S Las Vegas Blvd</Street>
+      <City>Las Vegas</City>
+      <State>NV</State>
+      <Zip>89158</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>The Nines</Name>
+    <Phone>877-229-9995</Phone>
+    <Address NearestAirport="Portland Intl">
+      <Number>525</Number>
+      <Street>SW Morrison St</Street>
+      <City>Portland</City>
+      <State>OR</State>
+      <Zip>97204</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.5">
+    <Name>Kimpton RiverPlace Hotel</Name>
+    <Phone>503-228-3233</Phone>
+    <Address NearestAirport="Portland Intl">
+      <Number>1510</Number>
+      <Street>SW Harbor Way</Street>
+      <City>Portland</City>
+      <State>OR</State>
+      <Zip>97201</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Fairmont Olympic Hotel</Name>
+    <Phone>206-621-1700</Phone>
+    <Address NearestAirport="Seattle-Tacoma Intl">
+      <Number>411</Number>
+      <Street>University St</Street>
+      <City>Seattle</City>
+      <State>WA</State>
+      <Zip>98101</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.4">
+    <Name>Edgewater Hotel</Name>
+    <Phone>800-624-0670</Phone>
+    <Address NearestAirport="Seattle-Tacoma Intl">
+      <Number>2411</Number>
+      <Street>Alaskan Way</Street>
+      <City>Seattle</City>
+      <State>WA</State>
+      <Zip>98121</Zip>
+    </Address>
+  </Hotel>
+</Hotels>
